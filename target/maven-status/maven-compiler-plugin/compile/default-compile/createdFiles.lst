@@ -1,0 +1,6 @@
+managers\DBConnectionManager.class
+service\LoginService.class
+repositories\UserRepository.class
+main\Main.class
+managers\DBConnectionManager$SingletonHolder.class
+model\User.class
